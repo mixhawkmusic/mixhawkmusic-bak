@@ -1,0 +1,19 @@
+# IntelliJ
+.idea/
+*.iml
+
+# Temporary files
+*.html.temp
+
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+build/
+*.lock
+public/
+
+# OS-specific
+.DS_Store
+Thumbs.db
